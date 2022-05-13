@@ -21,3 +21,7 @@
 - 📁 [Repo](https://github.com/AvijitD22/Web-Development-Course-Repo/tree/main/Personal%20Site)
 - 💻 [Website](https://avijitd22-mysite.netlify.app/)
 <hr>
+## ✏️ Bacon Fansite ✏️
+- 📁[Repo](https://github.com/AvijitD22/Web-Development-Course-Repo/tree/main/Bacon%20Fansite)
+- 💻[Website](https://avijitd22-bacon-fansite.netlify.app/)
+<hr>
