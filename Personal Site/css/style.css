@@ -1,0 +1,39 @@
+body {
+  background-color: #DADDFC;
+}
+
+p{
+  font-style: italic;
+}
+
+hr {
+  border-color: #98BAE7;
+  border-style: dotted none none none;
+  height: 1px;
+  width: 5%;
+  border-width: 5px;
+}
+
+/*? when mouse is run over*/
+hr:hover {
+  border-color: #009DAE;
+}
+
+/*? when mouse clicks on it*/
+hr:active {
+  border-color: red;
+}
+
+/*? to color and change look of link */
+a:any-link {
+  color: #206A5D;
+}
+
+.heading {
+  color: #009DAE;
+  font-style: italic;
+}
+
+.heading:hover {
+  color: #29BB89;
+}
