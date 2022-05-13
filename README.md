@@ -1,2 +1,23 @@
-# Web-Development-Course-Repo
-My Web Development Course Repo to Monitor my progress
+
+ <img align="center" src="https://www.filepicker.io/api/file/FSIjaoI2QtKWZL65cogd">
+ <h3 align="center">💻 Challenges and Projects from The Complete Web Bootcamp Course by <a href="https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/">Dr. Angela Yu</a>💻</h3>
+
+<hr>
+
+## ✒️ Tools and Technologies To Be Used ✒️
+
+  <p align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html5" width="35" height="35"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css3" width="35" height="35"/>
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="35" height="35"/>
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="35" height="35"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/jquery-8-1175153.png" alt="jquery" width="35" height="35"/>
+    <img src="https://w7.pngwing.com/pngs/780/57/png-transparent-node-js-javascript-database-mongodb-native-miscellaneous-text-trademark.png" alt="nodejs" width="35" height="35">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" alt="mongo-db" width="35" height="35">
+  </p>
+<hr>
+
+## ✏️ Personal Site - CV ✏️
+- 📁 [Repo](https://github.com/AvijitD22/Web-Development-Course-Repo/tree/main/Personal%20Site)
+- 💻 [Website](https://avijitd22-mysite.netlify.app/)
+<hr>
