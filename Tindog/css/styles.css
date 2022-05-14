@@ -1,0 +1,252 @@
+/*! Title Start*/
+
+#title {
+    background-color: #ff4c68;
+    padding: 3% 15% 5%;
+}
+
+.iphone-img {
+    width: 60%;
+    margin-bottom: -40%;
+    transform: rotate(25deg);
+    position: relative;
+    right: -20%;
+}
+
+/*? Navigation Bar Start  */
+
+.navbar {
+    padding-bottom: 4.5rem !important;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem !important;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat-light";
+}
+
+/*? Navigation Bar End  */
+
+
+/*? Section Start  */
+
+.colored-background{
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.white-background{
+    background-color: #fff;
+}
+
+/* ?Section End  */
+
+
+/*? Heading Start */
+
+.Top-Heading {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.3rem;
+    line-height: 1.5;
+}
+
+/*? Heading End */
+
+/*! Title End */
+
+/* ?Html Tags Start*/
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Montserrat-bold";
+}
+
+p {
+    color: #8f8f8f;
+}
+
+
+/* ? Html Tags End */
+
+
+/*? Media Query Start */
+
+@media (max-width: 990px) {
+    #title {
+        text-align: center;
+    }
+}
+
+@media (max-width: 700px) {
+    .iphone-img {
+        width: 70%;
+        transform: none;
+        margin-bottom: 0%;
+        right: 0;
+        align-self: center;
+    }
+}
+
+@media (max-width : 990px) {
+    .feature-symbol{
+        margin-top: 10% !important;
+    }
+}
+
+/*? Media Query End */
+
+/*? Features Start */
+.feature-symbol {
+    color: #ef8172;
+    margin-top: 40%;
+    margin-bottom: 5%;
+}
+
+.feature-section {
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-bottom: 8%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    background-color: #fff;
+    position: relative;
+}
+
+.feature-symbol:hover {
+    color: #ff4c68;
+}
+
+.feature-title{
+    font-size: 2rem !important;
+    font-weight: bolder !important;
+}
+
+/*? Features End */
+
+/*? App Download Button */
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+/*? App Download Button */
+
+/*? Carousel  */
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+/*? Carousel  */
+
+
+/*? Testimonials  Start */
+
+#testimonials {
+    text-align: center;
+    background-color: #ef8172;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.testimonial-text {
+    font-size: 4rem !important;
+    line-height: 1.5 !important;
+}
+
+/* ? Testimonials End */
+
+/* ? Press Start */
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.press-image {
+    width: 15%;
+    margin: 20px;
+}
+
+/* ? Press End */
+
+/* ? Pricing */
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-heading {
+    font-size: 4rem !important;
+    line-height: 1.5 !important;
+    font-weight: bolder !important;
+}
+
+.pricing-column {
+    padding: 3% 2% !important;
+}
+
+.pricing-tier {
+    font-size: 4rem !important;
+    line-height: 1.5 !important;
+    font-weight: bolder !important;
+}
+
+.pricing-plan{
+    font-size: 2rem !important;
+    font-weight: bolder !important;
+}
+
+/* ? Pricing End */
+
+
+/*? CTA Start */
+
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+}
+
+.cta-text {
+    font-size: 4.5rem !important;
+    padding: 9% 15% 0%;
+}
+
+/* ? CTA End */
+
+/*? Social Media Logos and Symbols */
+.fa-brands {
+    padding: 0px 10px 0px;
+}
+/*? Social Media Logos and Symbols End */
+
+/* ? Footer : Contact */
+
+#footer {
+    padding: 9%;
+    text-align: center;
+}
