@@ -59,3 +59,7 @@
 -  💻[Website](https://avijitd22-tindog.netlify.app/)
 <hr>
 
+## ✏️ Dice Game ✏️
+-   📁[Repo](https://github.com/AvijitD22/Web-Development-Course-Repo/tree/main/Dice%20Game)
+-   💻[Website](https://avijitd22-onlinedice.netlify.app/)
+<hr>

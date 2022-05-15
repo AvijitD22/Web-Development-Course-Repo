@@ -1,0 +1,21 @@
+.bodyClass {
+    text-align: center;
+    background-color: #393E46;
+    color: #4ECCA3;
+    font-family: 'Courgette', cursive;
+}
+
+.winnerText {
+    font-size: 6rem;
+}
+
+.myDices {
+    display: inline-block;
+    margin: 1% 2% 0;
+}
+
+.refreshText {
+    margin-top: 5%;
+    font-size: 2rem;
+    font-weight: bolder;
+}
