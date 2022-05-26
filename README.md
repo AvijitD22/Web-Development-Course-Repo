@@ -1,5 +1,6 @@
 
 
+
   
 
 <img  align="center"  src="https://www.filepicker.io/api/file/FSIjaoI2QtKWZL65cogd">
@@ -62,4 +63,9 @@
 ## ✏️ Dice Game ✏️
 -   📁[Repo](https://github.com/AvijitD22/Web-Development-Course-Repo/tree/main/Dice%20Game)
 -   💻[Website](https://avijitd22-onlinedice.netlify.app/)
+<hr>
+
+## ✏️ Drum Kit ✏️
+- 📁[Repo](https://github.com/AvijitD22/Web-Development-Course-Repo/tree/main/Drum%20Kit)
+- 💻[Website](https://avijitd22-drum-kit.netlify.app/)
 <hr>
