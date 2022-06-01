@@ -69,3 +69,7 @@
 - 📁[Repo](https://github.com/AvijitD22/Web-Development-Course-Repo/tree/main/Drum%20Kit)
 - 💻[Website](https://avijitd22-drum-kit.netlify.app/)
 <hr>
+
+## ✏️ Simon Game ✏️
+- 📁[Repo](https://github.com/AvijitD22/Web-Development-Course-Repo/tree/main/Simon%20Game)
+- 💻[Website](https://avijitd22-simon-game.netlify.app/)
